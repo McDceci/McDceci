@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @McDceci
+- 👋 Hi, I’m @Cecilia
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on New to Github
-- 📫 How to reach me ...cdmcdougle@msn.com
+- 📫 How to reach me ...cecilia.mcdougle@sanantonio.gov
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
